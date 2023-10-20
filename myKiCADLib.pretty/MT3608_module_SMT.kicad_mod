@@ -1,6 +1,6 @@
 (footprint "MT3608_module_SMT" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (attr through_hole)
+  (attr smd)
   (fp_text reference "M2" (at 0.25 6 180) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dd133d8a-e8a6-4763-9ea6-cd2e6b3e9d31)
