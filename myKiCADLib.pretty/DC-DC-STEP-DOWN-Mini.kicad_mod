@@ -2,7 +2,7 @@
   (layer "F.Cu")
   (descr "<b>DC/DC Step-Down Module</b> 5V-23V 3A</b>")
   (attr smd)
-  (fp_text reference "DC-DC-STEP-DOWN-Mini" (at 0 -7.62) (layer "F.SilkS")
+  (fp_text reference "DCDC-STEPDOWN-Mini" (at 0 -7.62) (layer "F.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 96b4476c-f2a2-4ea5-b9ba-0e81e27e1c7e)
   )
